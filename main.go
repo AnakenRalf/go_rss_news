@@ -26,7 +26,7 @@ func main() {
 				Flags: []cli.Flag{
 					&cli.StringFlag{
 						Name:  "theme",
-						Usage: "Select a news theme: AI, ML, Computers, World news",
+						Usage: "Select a news theme: AI, ML, Computers, world news",
 					},
 				},
 			},

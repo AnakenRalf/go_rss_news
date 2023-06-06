@@ -12,11 +12,11 @@
   feeds:
     - url: https://www.reddit.com/r/MachineLearning/.rss
       title: ML reddit
-    - url: https://bair.berkeley.edu/blog/feed.xml
-      title: ML berkeley
+    # - url: https://bair.berkeley.edu/blog/feed.xml
+    #   title: ML berkeley
 - theme: world
   feeds:
     - url: http://feeds.bbci.co.uk/news/world/rss.xml
       title: BBC World News
-    - url: https://www.nytimes.com/section/world/rss.xml
+    - url: https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/section/world/rss.xml
       title: NewYTimes
